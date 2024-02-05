@@ -9,7 +9,7 @@ public class JpaMain {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("hello");
         EntityManager em = emf.createEntityManager();
         //code
-        System.out.println("em = " + em);
+        System.out.println("em12 = " + em);
         em.close();
         emf.close();
     }

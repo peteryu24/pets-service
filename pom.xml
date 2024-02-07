@@ -15,7 +15,7 @@
     </properties>  
 
     <dependencies>
-        <!-- JPA 하이버네이트 -->
+        <!-- JPA 하이버네이트 --> 
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>

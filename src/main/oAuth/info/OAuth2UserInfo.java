@@ -8,7 +8,7 @@ public abstract class OAuth2UserInfo {
     }
 
     public Map<String, Object> getAttributes() {
-        return attributes;
+        return attributes; 
     }
 
     public abstract String getId();
